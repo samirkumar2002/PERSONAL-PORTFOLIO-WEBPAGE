@@ -36,3 +36,10 @@ In summary, this Personal Portfolio Web Page is a polished, functional, and eleg
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/7c9b4f08-6879-4cac-9020-585ab6d78bab)
+
+![Image](https://github.com/user-attachments/assets/d4656d7e-60a8-4b08-b492-7b5662ea9996)
+
+![Image](https://github.com/user-attachments/assets/f1372f32-e529-4f02-89bc-ff3a0889e03d)
+
+![Image](https://github.com/user-attachments/assets/19c82e86-8e64-4df9-aecd-f1f28a8da82a)
